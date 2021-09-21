@@ -1,0 +1,31 @@
+RESTAURANT_NAME	RESTAURANT_PHONE_NUMBER	FOOD_TYPE	PRICE	LOCATION
+Lucky Changs	310-543-2345	Chinese	cheap	Marina Del Rey
+Vino	310-235-3253	Italian	expensive	Venice
+Hama Sushi	310-324-5324	Japanese	expensive	Venice
+Sugar Fish	310-453-2323	Japanese	expensive	Marina Del Rey
+Scopa	310-235-4636	Italian	expensive	Marina Del Rey
+Tsujitan Artisan Noodles	310-235-4352	Japanese	cheap	Marina Del Rey
+Chipolte	310-322-2353	Mexican	cheap	Marina Del Rey
+Tocaya	310-342-7686	Mexican	medium-priced	Venice
+Mao's Kitchen	310-325-5324	Chinese	medium-priced	Venice
+Roadhouse	310-235-4524	Italian	medium-priced	Korea Town
+Tasting Kitchen	310-745-2352	Italian	expensive	Venice
+Wabi Sabi	310-475-8264	Japanese	expensive	Venice
+Vincents	310-463-6546	Italian	cheap	Marina Del Rey	
+KT BBQ	310-325-6346	Japanese	medium-priced	Korea Town
+Peter Liugers	310-324-5435	Greek	expensive	Santa Monica
+Hiroshima	310-356-7264	Japanese	expensive	Hollywood
+Mr. Changs	310-535-7545	Chinese	expensive	Hollywood
+Greeko	310-434-6746	Greek	medium-priced	Playa Vista
+Canyon Road	310-235-4636	Mexican	expensive	Hollywood
+Maya	310-343-7675	Mexican	medium-priced	Santa Monica
+Malaka Brothers	310-342-7686	Greek	medium-priced	Venice
+Delphi Greek	310-545-7753	Greek	cheap	Hollywood
+Aliki	310-256-5743	Greek	cheap	Playa Vista
+Mandarin Dish	310-865-3468	Chinese	medium-priced	Playa Vista
+China Express	310-565-6272	Chinese	cheap	Marina Del Rey
+Casa Modena	310-443-6542	Italian	expensive	Santa Monica
+Compari's Trattoria Pizzaria	310-753-6247	Italian	medium-priced	Korea Town
+Young King	310-843-7246	Chinese	medium-priced	Korea Town
+Shin Beijing	310-634-7543	Chinese	expensive	Korea Town
+SOL Mexican Cocina	310-356-4632	Mexican	expensive	Playa Vista
